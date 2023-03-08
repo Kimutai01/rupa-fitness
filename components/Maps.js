@@ -12,9 +12,7 @@ const Maps = () => {
           <CgGym className="text-4xl mx-2  text-red-600" /> Our Location
         </h1>
 
-        <h1 className="  text-white font-bold text-4xl">
-          HILTON TOWERS, 6TH FLOOR
-        </h1>
+        <h1 className="  text-white font-bold text-4xl">Rupa mall</h1>
       </section>
       <Map
         style={{
