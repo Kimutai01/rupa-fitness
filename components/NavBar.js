@@ -29,7 +29,7 @@ const NavBar = () => {
     >
       <div className="max-w-[1240px] m-auto flex justify-between items-center p-4 text-white">
         <Link href="/">
-          <h1 className="font-bold text-4xl text-red-600">Trimax fitness</h1>
+          <h1 className="font-bold text-4xl text-red-600">Rupa fitness</h1>
         </Link>
         <ul style={{ color: `${textColor}` }} className="hidden sm:flex">
           <Link href="/#about">

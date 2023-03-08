@@ -47,7 +47,7 @@ const Footer = () => {
             <div className="text-white flex flex-col md:items-start items-center">
               <div className="flex items-center">
                 <Link href="/" className="flex items-center">
-                  <IoLocationSharp className="mx-2" /> Juja square
+                  <IoLocationSharp className="mx-2" /> Rupa mall, Eldoret
                 </Link>
               </div>
               <div className="flex items-center">

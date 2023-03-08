@@ -27,8 +27,8 @@ const Maps = () => {
           borderRadius: "5px",
         }}
         initialViewState={{
-          latitude: -1.038757,
-          longitude: 37.083375,
+          latitude: 0.5139,
+          longitude: 35.2907,
           zoom: 12,
         }}
         mapboxAccessToken={
@@ -37,13 +37,13 @@ const Maps = () => {
         mapStyle="mapbox://styles/mapbox/streets-v11" // This is the style of the map
       >
         <Marker
-          latitude={-1.034864}
-          longitude={37.073487}
+          latitude={0.5139}
+          longitude={35.2907}
           offsetLeft={-20}
           offsetTop={-10}
         >
           <p className="bg-red-600 font-bold px-2 py-1 text-white rounded-xl">
-            Trimax fitness
+            Rupa fitness
           </p>
           <HiLocationMarker className="text-5xl text-red-600" />
         </Marker>

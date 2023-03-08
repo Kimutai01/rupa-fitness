@@ -2,7 +2,7 @@ import React from "react";
 import { AiFillDownCircle } from "react-icons/ai";
 import Link from "next/link";
 import Image from "next/image";
-import logo1 from "../public/logo1.png";
+import logo1 from "../public/logo2.png";
 import { motion } from "framer-motion";
 const Hero = () => {
   return (

@@ -34,7 +34,7 @@ const About = () => {
             </h2>
 
             <p className="text-lg text-gray-500 w-80 my-3 ">
-              Trimax fitness is a gym that is located at Juja. We have the best
+              Rupa fitness is a gym that is located at Eldoret. We have the best
               trainers and the best equipment. We are the best gym in town if
               you want to look good and feel good.
             </p>
